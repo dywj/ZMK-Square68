@@ -69,7 +69,7 @@
             >;
 
             display-name = "MOUSE";
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&scroll_encoder>；
         };
     };
 };
