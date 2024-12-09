@@ -28,8 +28,8 @@ layers:
   - KP 1
   - KP 2
   - KP 3
-  - '&bl BL_TOG'
-  - '&bl BL_SET 50'
+  - RGB TOG
+  - RGB COLOR HSB(128,100,100)
   - H
   - KP 0
   - KP DOT
