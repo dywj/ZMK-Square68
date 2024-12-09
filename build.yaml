@@ -17,14 +17,14 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: square68_left display_091_drum
     cmake-args: -DCONFIG_ZMK_DISPLAY=y
     artifact-name: square68_leftwithdrum
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: square68_right display_091_drum
     cmake-args: -DCONFIG_ZMK_DISPLAY=y
     artifact-name: square68_rightwithdrum
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: settings_reset
     
